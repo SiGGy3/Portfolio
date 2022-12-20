@@ -1,6 +1,21 @@
 body {
-    background-color: cornflowerblue;
-    color: chocolate;
-
-
+    background-color: midnightblue;
+}
+h1 {
+    color: white
+}
+h2 {
+    color: white;
+}
+h3 {
+    color: white;
+}
+ol {
+    color: gold;
+}
+p {
+    color: white;
+}
+a {
+    color 
 }
